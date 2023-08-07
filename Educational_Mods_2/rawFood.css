@@ -59,6 +59,10 @@ body {
   text-align: center;
 }
 
+.citrusX__raw-items-container a:hover{
+  text-decoration: none;
+}
+
 .citrusX__raw-item {
   width: 1272.18px;
   display: flex;
@@ -98,6 +102,7 @@ body {
   text-align: center;
   color: #000;
   padding-bottom: 25px;
+  font-weight: 500;
 }
 
 .citrusX__card-cta {
